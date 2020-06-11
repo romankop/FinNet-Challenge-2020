@@ -1,4 +1,4 @@
-# FinNet-Challenge-2020
+# FinNet Challenge 2020
 
 The Solution for the <a href="https://job.tochka.com/challenge">FinNet Challenge 2020</a> of Bossanova Babies team. The Solution achieved the 8th place in the Private Leaderboard.
 
